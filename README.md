@@ -1,4 +1,4 @@
-# Camouflage Object Masking_WiDS
+# Camouflage Object Masking, WiDS'22
 This Project was done as a part of Winter in Data Science(WiDS) , IIT Bombay, and was mentored by Gaurav Misra.
 
 Camouflage Object Masking deals with the task of identifying and segmenting out objects that are
